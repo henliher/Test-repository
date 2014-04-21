@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Let's see how this works.
+=======
+Blah blah
+>>>>>>> 62e1ec0c32fd62a918b6fe189f87983d4e190569
